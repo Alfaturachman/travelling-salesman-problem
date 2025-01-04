@@ -1,9 +1,9 @@
-<h4 align="center">Pengembangan Sistem Manajemen Crumb Rubber pada UMKM Repro Semarang Menggunakan Metode Nearest Neighbor untuk Traveling Salesman Problem.
-</h4>
+<h3 align="center">Implementasi untuk Traveling Salesman Problem Menggunakan Metode Nearest Neighbor pada Rantai Pasok Crumb Rubber UMKM Repro Semarang
+</h3>
 
 <p></p>
 
-<h2 id="tentang">• Tentang Traveling Salesman Problem</h2>
+<h4 id="tentang">• Tentang Traveling Salesman Problem</h2>
 
 <p>
   Traveling Salesman Problem (TSP) adalah salah satu permasalahan optimasi paling terkenal dalam ilmu komputer dan matematika. 
@@ -14,6 +14,6 @@
 
 <p></p>
 
-<h2 id="lisensi">• Lisensi</h2>
+<h4 id="lisensi">• Lisensi</h2>
 
 Copyright © 2024 Alfaturachman Maulana Pahlevi
