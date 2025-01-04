@@ -3,12 +3,6 @@
 
 <p></p>
 
-<p align="center">
-  <a href="#tentang">Tentang Project</a>
-</p>
-
-<p></p>
-
 <h2 id="tentang">• Tentang Traveling Salesman Problem</h2>
 
 <p>
