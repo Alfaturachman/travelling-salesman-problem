@@ -15,10 +15,15 @@
 
 <h2 id="tentang">• Tentang Traveling Salesman Problem</h2>
 
-Website ini berfungsi sebagai pembayaran SPP bagi para siswa di SMKN 1 Ciamis, menjadi suatu studi kasus yang harus dipecahkan.
+<p>
+  Traveling Salesman Problem (TSP) adalah salah satu permasalahan optimasi paling terkenal dalam ilmu komputer dan matematika. 
+  Masalah ini bertujuan untuk menemukan rute terpendek yang memungkinkan seorang penjual keliling mengunjungi sejumlah kota 
+  satu kali saja dan kembali ke kota awal. TSP memiliki banyak aplikasi di dunia nyata, termasuk logistik, manajemen rute, dan pengelolaan 
+  distribusi barang.
+</p>
 
 <p></p>
 
-<h2 id="lisensi">📝 Lisensi</h2>
+<h2 id="lisensi">• Lisensi</h2>
 
-- Copyright © 2024 Alfaturachman Maulana Pahlevi
+Copyright © 2024 Alfaturachman Maulana Pahlevi
