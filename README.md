@@ -1,8 +1,4 @@
-<h1 align="center">Selamat datang di repository Traveling Salesman Problem! 👋🏻</h1>
-
-<p></p>
-
-<h4 align="center">Pengembangan Sistem Manajemen Crumb Rubber pada UMKM Repro Semarang Menggunakan Metode Nearest Neighbor untuk Traveling Salesman Problem<a href="https://laravel.com/" target="_blank">Laravel</a>.
+<h4 align="center">Pengembangan Sistem Manajemen Crumb Rubber pada UMKM Repro Semarang Menggunakan Metode Nearest Neighbor untuk Traveling Salesman Problem.
 </h4>
 
 <p></p>
